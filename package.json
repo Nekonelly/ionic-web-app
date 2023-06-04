@@ -12,11 +12,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@capacitor/android": "5.0.4",
     "@capacitor/app": "5.0.2",
+    "@capacitor/app-launcher": "^5.0.2",
+    "@capacitor/browser": "^5.0.2",
     "@capacitor/core": "5.0.4",
-    "@capacitor/haptics": "5.0.2",
+    "@capacitor/dialog": "^5.0.2",
+    "@capacitor/haptics": "^5.0.2",
     "@capacitor/keyboard": "5.0.2",
+    "@capacitor/screen-reader": "^5.0.2",
+    "@capacitor/share": "^5.0.2",
     "@capacitor/status-bar": "5.0.2",
+    "@capacitor/toast": "^5.0.2",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
     "@types/react-router": "^5.1.20",
@@ -24,6 +31,7 @@
     "ionicons": "^7.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
     "react-router": "^5.3.4",
     "react-router-dom": "^5.3.4"
   },
